@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: SpeedyBWLGossip
+## Author: ThatKalle
+## Notes: Automate BWL gossip.
+## Version: 1.0.0
+## DefaultState: enabled
+
+SpeedyBWLGossip.lua
