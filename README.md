@@ -9,6 +9,8 @@ Make sure the folder is named `SpeedyBWLGossip` in your `Interface\AddOns` folde
 
 ## Features
 
+ - Control Key<br>
+ Disable the automation by holding **Control key** while interacting with target.
  - Orb of Command<br>
  Upon interaction with the [Orb of Command](https://classic.wowhead.com/object=179879/orb-of-command) in Blackrock Spire the addon will automatically enter the [Blackwing Lair](https://classic.wowhead.com/blackwing-lair) raid instance. *If attuned and in a raid party*
  - Vaelastrasz the Corrupt<br>
