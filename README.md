@@ -1,0 +1,2 @@
+# SpeedyBWLGossip
+Automate BWL gossip
